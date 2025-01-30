@@ -1,4 +1,4 @@
-Locales['sl'] = {
+return {
   ['shop'] = 'Trgovina',
   ['shops'] = 'Trgovine',
   ['press_menu'] = 'pritisni [%s] da odpres ~g~Trgovino.',

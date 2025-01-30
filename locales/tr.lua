@@ -1,4 +1,4 @@
-Locales['tr'] = {
+return {
   ['shop'] = 'Market',
   ['shops'] = 'Marketler',
   ['press_menu'] = 'Marketi açmak için ~b~[%s]~s~ tuşuna bas.',

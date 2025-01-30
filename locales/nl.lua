@@ -1,4 +1,4 @@
-Locales['nl'] = {
+return {
   ['shop'] = 'winkel',
   ['shops'] = 'winkels',
   ['press_menu'] = 'klik op [%s] om de ~g~winkel~s~ te gebruiken.',

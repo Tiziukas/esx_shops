@@ -1,4 +1,4 @@
-Locales['hu'] = {
+return {
   ['shop'] = 'Bolt',
   ['shops'] = 'Bolt',
   ['press_menu'] = 'Nyomd meg a [%s] gombot hogy megnézd a kinálatot',

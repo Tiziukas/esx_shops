@@ -1,4 +1,4 @@
-Locales['fr'] = {
+return {
   ['shop'] = 'magasin',
   ['shops'] = 'magasins',
   ['press_menu'] = 'appuyez sur [%s] pour accéder au magasin.',

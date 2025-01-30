@@ -1,4 +1,4 @@
-Locales['zh-cn'] = {
+return {
   ['shop'] = '购物商店',
   ['shops'] = '购物商店',
   ['press_menu'] = '键下 [%s] 访问~g~购物商店.',

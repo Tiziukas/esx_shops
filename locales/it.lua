@@ -1,4 +1,4 @@
-Locales['it'] = {
+return {
   ['shop'] = 'negozio',
   ['shops'] = 'negozi',
   ['press_menu'] = 'premi [%s] per accedere al negozio.',

@@ -1,4 +1,4 @@
-Locales['fi'] = {
+return {
   ['shop'] = 'Kauppa',
   ['shops'] = 'Kauppa',
   ['press_menu'] = 'Paina [%s] avataksesi valikko.',
